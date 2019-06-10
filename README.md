@@ -1,2 +1,2 @@
 # leetcode
-leetcode_notebook
+This is a notebook for leetcode.
